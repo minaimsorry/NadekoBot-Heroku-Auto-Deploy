@@ -5,7 +5,7 @@
   },
   "User": {
     "Name": {
-      "Color": "f58bb7",
+      "Color": "ccedff",
       "Show": true,
       "FontSize": 50,
       "Pos": {
@@ -25,7 +25,7 @@
       }
     },
     "GlobalLevel": {
-      "Color": "f58bb7",
+      "Color": "ccedff",
       "Show": true,
       "FontSize": 45,
       "Pos": {
@@ -34,7 +34,7 @@
       }
     },
     "GuildLevel": {
-      "Color": "f58bb7",
+      "Color": "ccedff",
       "Show": true,
       "FontSize": 45,
       "Pos": {
@@ -43,7 +43,7 @@
       }
     },
     "GlobalRank": {
-      "Color": "f58bb7",
+      "Color": "ccedff",
       "Show": true,
       "FontSize": 30,
       "Pos": {
@@ -52,7 +52,7 @@
       }
     },
     "GuildRank": {
-      "Color": "f58bb7",
+      "Color": "ccedff",
       "Show": true,
       "FontSize": 30,
       "Pos": {
@@ -63,7 +63,7 @@
     "TimeOnLevel": {
       "Format": "{0}d",
       "Global": {
-        "Color": "f58bb7",
+        "Color": "ccedff",
         "Show": true,
         "FontSize": 20,
         "Pos": {
@@ -72,7 +72,7 @@
         }
       },
       "Guild": {
-        "Color": "f58bb7",
+        "Color": "ccedff",
         "Show": true,
         "FontSize": 20,
         "Pos": {
@@ -85,7 +85,7 @@
       "Bar": {
         "Show": true,
         "Global": {
-          "Color": "f3a4c866",
+          "Color": "06429266",
           "PointA": {
             "X": 321,
             "Y": 104
@@ -98,7 +98,7 @@
           "Direction": 3
         },
         "Guild": {
-          "Color": "f3a4c866",
+          "Color": "06429266",
           "PointA": {
             "X": 282,
             "Y": 248
@@ -112,7 +112,7 @@
         }
       },
       "Global": {
-        "Color": "5e515d",
+        "Color": "ccedff",
         "Show": true,
         "FontSize": 50,
         "Pos": {
@@ -121,7 +121,7 @@
         }
       },
       "Guild": {
-        "Color": "5e515d",
+        "Color": "ccedff",
         "Show": true,
         "FontSize": 50,
         "Pos": {
@@ -130,7 +130,7 @@
         }
       },
       "Awarded": {
-        "Color": "5e515d",
+        "Color": "ccedff",
         "Show": true,
         "FontSize": 25,
         "Pos": {
@@ -153,7 +153,7 @@
       }
     },
     "Name": {
-      "Color": "ed7aa6",
+      "Color": "ccedff",
       "Show": true,
       "FontSize": 35,
       "Pos": {
