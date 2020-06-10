@@ -85,7 +85,7 @@
       "Bar": {
         "Show": true,
         "Global": {
-          "Color": "8f8a8e",
+          "Color": "8a63a4",
           "PointA": {
             "X": 28,
             "Y": 235
@@ -98,7 +98,7 @@
           "Direction": 3
         },
         "Guild": {
-          "Color": "8f8a8e",
+          "Color": "8a63a4",
           "PointA": {
             "X": 28,
             "Y": 330
