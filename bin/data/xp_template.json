@@ -155,10 +155,10 @@
     "Name": {
       "Color": "ffffff",
       "Show": true,
-      "FontSize": 35,
+      "FontSize": 25,
       "Pos": {
-        "X": 298,
-        "Y": 70
+        "X": 288,
+        "Y": 297
       }
     }
   }
